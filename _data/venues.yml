@@ -1,0 +1,54 @@
+AAAI:
+  color: "#6f4e37"
+AAMAS:
+  color: "#7a5195"
+ACL:
+  color: "#1f77b4"
+"ACL Findings":
+  color: "#1f77b4"
+CHI:
+  color: "#9467bd"
+"CHI LBW":
+  color: "#9467bd"
+DATE:
+  color: "#8c564b"
+EMNLP:
+  color: "#17becf"
+"EMNLP Findings":
+  color: "#17becf"
+"EMNLP Industry":
+  color: "#17becf"
+GLSVLSI:
+  color: "#bcbd22"
+ICDM:
+  color: "#ff7f0e"
+ICLR:
+  color: "#2ca02c"
+ICML:
+  color: "#2ca02c"
+ICPE:
+  color: "#7f7f7f"
+IJCAI:
+  color: "#d62728"
+KDD:
+  color: "#d62728"
+NeurIPS:
+  color: "#2ca02c"
+SDM:
+  color: "#ff7f0e"
+SIGKDD Explorations:
+  color: "#d62728"
+SMC:
+  color: "#7f7f7f"
+TIST:
+  color: "#1f77b4"
+TKDE:
+  color: "#1f77b4"
+TMLR:
+  color: "#2ca02c"
+VLDB:
+  color: "#e377c2"
+WSDM:
+  color: "#d62728"
+WWW:
+  color: "#d62728"
