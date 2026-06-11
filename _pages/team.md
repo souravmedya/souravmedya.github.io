@@ -11,7 +11,7 @@ I am very fortunate to work with the following students.
 
 ## Current Team Members
 
-### Ph.D. Students
+#### Ph.D. Students
 
 - [Homaira Huda Shomee](https://hhshomee.github.io/) (Fall 2023--present)  
   Interests: multimodal learning, graph machine learning.
@@ -25,7 +25,7 @@ I am very fortunate to work with the following students.
 - Angelo Zangari (Spring 2026--present; co-advised with Prof. Xinhua Zhang)  
   Interests: combinatorial problems, graph machine learning.
 
-### Undergraduate Students
+#### Undergraduate Students
 
 - [Omar Uddin](https://www.linkedin.com/in/omar-uddin-66651a284) (Summer 2025--present)  
   Interests: domain-specific LLMs.
