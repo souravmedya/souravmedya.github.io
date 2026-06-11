@@ -2,7 +2,7 @@
 layout: page
 permalink: /service.html
 title: teaching & service
-description: Teaching and professional service.
+description: 
 nav: true
 nav_order: 4
 ---
