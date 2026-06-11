@@ -7,7 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-## Research Interests
 
 My research interests broadly lie in graphs, graph mining and algorithms, machine learning on graphs, and data science.
 
