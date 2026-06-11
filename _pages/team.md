@@ -36,12 +36,12 @@ I am very fortunate to work with the following students.
   Interests: combinatorial problems, graph machine learning.
   
 - [Jaspal Jannu](https://scholar.google.com/citations?user=b82krC4AAAAJ&hl=en), M.S. student, graduated Fall 2024.  
-  Interests: theoretical machine learning, explainable AI, and machine learning on graphs.
-  <span style="color: #d50032;">UIC Outstanding M.S. Thesis Award, AY 2025--26</span> [News](https://cs.uic.edu/news-stories/two-cs-students-win-outstanding-dissertation-and-thesis-awards/)
+  Interests: theoretical machine learning, explainable AI, and machine learning on graphs.<br>
+  <span style="color: #0055A4;">UIC Outstanding M.S. Thesis Award, AY 2025--26</span> [News](https://cs.uic.edu/news-stories/two-cs-students-win-outstanding-dissertation-and-thesis-awards/)
   
 - Pietro Lodi Rizzini, M.S. student, graduated Fall 2024; co-advised with [Prof. Zhiling Lan](https://lanzhiling.github.io/). 
   Interests: HPC, graph machine learning.
   
 - [Jaykumar Kakkad](https://scholar.google.com/citations?user=hiPb05wAAAAJ&hl=en&oi=ao), M.S. student, graduated Spring 2024.  
   Interests: explainable AI, distillation, and machine learning on graphs.  
-  <span style="color: #d50032;">UIC Outstanding M.S. Thesis Award, AY 2024--25</span> [News](https://cs.uic.edu/news-stories/outstanding-thesis-and-dissertation-award-winners/)
+  <span style="color: #0055A4;">UIC Outstanding M.S. Thesis Award, AY 2024--25</span> [News](https://cs.uic.edu/news-stories/outstanding-thesis-and-dissertation-award-winners/)
