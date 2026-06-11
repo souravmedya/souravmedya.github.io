@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /team.html
-title: team
+title: Team
 description: Current students and alumni.
 nav: true
 nav_order: 3
 ---
 
-I am fortunate to work with the following students.
+I am very fortunate to work with the following students.
 
 ## Current Team Members
 
@@ -37,7 +37,7 @@ I am fortunate to work with the following students.
   
 - [Jaspal Jannu](https://scholar.google.com/citations?user=b82krC4AAAAJ&hl=en), M.S. student, graduated Fall 2024.  
   Interests: theoretical machine learning, explainable AI, and machine learning on graphs.
-  UIC Outstanding M.S. Thesis Award, AY 2025--26. [News](https://cs.uic.edu/news-stories/two-cs-students-win-outstanding-dissertation-and-thesis-awards/)
+  <span style="color: #d50032;">UIC Outstanding M.S. Thesis Award, AY 2025--26</span> [News](https://cs.uic.edu/news-stories/two-cs-students-win-outstanding-dissertation-and-thesis-awards/)
   
 - Pietro Lodi Rizzini, M.S. student, graduated Fall 2024; co-advised with [Prof. Zhiling Lan](https://lanzhiling.github.io/). 
   Interests: HPC, graph machine learning.
