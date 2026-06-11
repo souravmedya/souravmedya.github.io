@@ -2,7 +2,7 @@
 layout: page
 permalink: /team.html
 title: Team
-description: Current students and alumni.
+description: 
 nav: true
 nav_order: 3
 ---
