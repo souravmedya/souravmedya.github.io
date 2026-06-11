@@ -44,4 +44,4 @@ I am very fortunate to work with the following students.
   
 - [Jaykumar Kakkad](https://scholar.google.com/citations?user=hiPb05wAAAAJ&hl=en&oi=ao), M.S. student, graduated Spring 2024.  
   Interests: explainable AI, distillation, and machine learning on graphs.  
-  UIC Outstanding M.S. Thesis Award, AY 2024--25. [News](https://cs.uic.edu/news-stories/outstanding-thesis-and-dissertation-award-winners/)
+  <span style="color: #d50032;">UIC Outstanding M.S. Thesis Award, AY 2024--25</span> [News](https://cs.uic.edu/news-stories/outstanding-thesis-and-dissertation-award-winners/)
