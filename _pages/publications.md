@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /research.html
-title: research
-description: Research interests and publications.
+title: 
+description: 
 nav: true
 nav_order: 2
 ---
