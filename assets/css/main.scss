@@ -54,7 +54,13 @@
     margin-bottom: 0.15rem;
   }
 }
+a {
+    color: #003A70;
+  }
 
+  a:hover {
+    color: #0055A4;
+  }
 .publications ol.bibliography li .author > em {
   border-bottom: 0;
 }
