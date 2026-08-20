@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research focuses on problems at the intersection of graphs, machine learning, and data science, with an emphasis on bias, fairness, and interpretability. I also build machine learning techniques with applications in healthcare, infrastructure, and computational social science.
+My research focuses on problems at the intersection of graphs, machine learning, and data science, with an emphasis on interpretability, effciency and security. I also build machine learning techniques with applications in healthcare, infrastructure, and computational social science.
 
 Before joining UIC, I was a research assistant professor in the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University and the [Northwestern Institute on Complex Systems](https://www.nico.northwestern.edu/). I received my Ph.D. in Computer Science from the [University of California, Santa Barbara](https://www.cs.ucsb.edu/), and my Master of Engineering degree from the [Department of Computer Science and Automation](https://csa.iisc.ac.in/) at the Indian Institute of Science, Bangalore.
 
